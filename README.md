@@ -34,10 +34,10 @@ I specialize in Data Science, Artificial Intelligence, and Data Engineering – 
 
 ## 💡 Interests
 
-- Data Science & Artificial Intelligence 🤖  
-- Cloud technologies ☁️  
+- Data Science & Artificial Intelligence  
+- Cloud technologies  
 - Intelligent agent design  
-- Skateboarding 🛹
+- Skateboarding
 
 ---
 
