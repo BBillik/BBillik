@@ -45,5 +45,5 @@ I specialize in Data Science, Artificial Intelligence, and Data Engineering – 
 
 Feel free to reach out via email or connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-billik-701502372/)  
 [![Gmail](https://img.shields.io/badge/Email-bartekbillik@gmail.com-red?logo=gmail&logoColor=white)](mailto:bartekbillik@gmail.com)
